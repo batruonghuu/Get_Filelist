@@ -4,7 +4,7 @@ import time
 
 path = r"E:\Code Project\Learn Python\Filelist\doc\Truong Huu Ba.xlsx"
 # Define the path
-# Remember character "r" before the path
+# Remember character "r" before the path file
 
 m_time = os.path.getmtime(path)
 # Get modification time of a file
